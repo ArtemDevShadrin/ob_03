@@ -6,10 +6,10 @@
 ## Использование
 
 ### 1. Импортирование необходимых классов
-from dz.class_animals import Bird, Mammal, Reptile
-from dz.class_employee import ZooKeeper, Veterinarian
-from dz.class_zoo import Zoo
-from dz.func import animal_all_info, employees_info, employees_role_info
+from dz.class_animals import Bird, Mammal, Reptile <br />
+from dz.class_employee import ZooKeeper, Veterinarian <br />
+from dz.class_zoo import Zoo <br />
+from dz.func import animal_all_info, employees_info, employees_role_info <br />
 
 ###  2. Создание экземпляра зоопарка
 zoo = Zoo()
