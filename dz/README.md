@@ -41,14 +41,16 @@ veterinarian.heal_animal(parrot)
 
 Структура проекта
 zoo-management-system/
-│
-├── dz/
-│   ├── class_animals.py
-│   ├── class_employee.py
-│   ├── class_zoo.py
-│   └── func.py
-│
-├── README.md
+
+
+├── dz/<br />
+│   ├── class_animals.py <br />
+│   ├── class_employee.py <br />
+│   ├── class_zoo.py <br />
+│   ├──  func.py <br />
+│   ├── README.md <br />
+
+
 
 Лицензия
 Этот проект лицензируется в соответствии с лицензией MIT. Подробности см. в файле LICENSE.
